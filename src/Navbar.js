@@ -7,7 +7,7 @@ function Navbar(props) {
       <>
       <div className={styles.nav}>
         
-      <div className={styles.title}>MOVIE APP</div>
+      <div className={styles.title}>Epic</div>
         
         <div className={styles.cartIconContainer}>
             <img className={styles.cartIcon} 
